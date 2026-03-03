@@ -1,8 +1,6 @@
 {# Custom footer override to add 'Edit this page' link and contributors #}
 <div class="md-footer-edit" style="margin-top:8px">
-  {% if config.repo_url and config.edit_uri and page.file %}
-  <a href="{{ config.repo_url }}/{{ config.edit_uri }}{{ page.file.src_path }}" class="md-button md-button--primary" target="_blank" rel="noopener">Edit this page on GitHub</a>
-  {% endif %}
+  {# Footer edit button removed — edit controls appear beside titles now #}
   {% if page.git_revision_date_localized or git_revision_date_localized %}
     <div class="md-last-updated" style="margin-top:8px;font-size:0.9em;color:var(--md-typeset-meta)">
       <strong>Last updated:</strong>
@@ -14,13 +12,10 @@
     </div>
   {% endif %}
 
-  {% if config.plugins and config.plugins['git-authors'] and page.file %}
-    {% set authors = page.meta.authors if page.meta.authors is defined else (page.file.src_path | git_authors) %}
-    {% if authors %}
-      <div class="md-contributors" style="margin-top:6px;font-size:0.9em;color:var(--md-typeset-meta)">
-        <strong>Contributors:</strong>
-        {{ authors }}
-      </div>
-    {% endif %}
+  {% if page.meta and page.meta.authors is defined and page.meta.authors %}
+    <div class="md-contributors" style="margin-top:6px;font-size:0.9em;color:var(--md-typeset-meta)">
+      <strong>Contributors:</strong>
+      {{ page.meta.authors }}
+    </div>
   {% endif %}
 </div>

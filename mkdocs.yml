@@ -4,6 +4,7 @@ site_name: Xeno Bot Docs
 site_description: Documentation for Xeno Bot
 theme:
   name: material
+  custom_dir: overrides
   features:
     - content.action.edit
     - content.action.view
