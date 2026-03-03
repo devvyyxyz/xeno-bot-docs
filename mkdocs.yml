@@ -1,0 +1,18 @@
+site_name: Xeno Bot Docs
+site_description: Documentation for Xeno Bot
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+
+plugins:
+  - search
+
+repo_url: https://github.com/your-org/your-repo
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/
