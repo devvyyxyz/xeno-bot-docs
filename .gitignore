@@ -1,0 +1,10 @@
+# Ignore built documentation site
+site/
+
+# Python artifacts
+.venv/
+__pycache__/
+.pytest_cache/
+
+# macOS
+.DS_Store
