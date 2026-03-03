@@ -19,6 +19,7 @@ theme:
 nav:
   - Home: index.md
   - Overview: overview.md
+  - Links: links.md
   - Getting Started: getting-started.md
   - Commands:
     - Index: commands/index.md
