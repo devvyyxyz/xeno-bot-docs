@@ -1,3 +1,5 @@
+edit_uri: edit/main/docs/
+
 site_name: Xeno Bot Docs
 site_description: Documentation for Xeno Bot
 theme:
@@ -56,6 +58,8 @@ plugins:
   - redirects
   - minify:
       minify_html: true
+  - git-authors
+  - include-markdown
   - i18n:
       default_language: en
       languages:

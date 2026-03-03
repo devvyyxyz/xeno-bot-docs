@@ -10,3 +10,5 @@ mkdocs-minify-plugin
 mike
 mkdocs-pwa-plugin
 mkdocs-static-i18n
+mkdocs-git-authors-plugin
+mkdocs-include-markdown-plugin
