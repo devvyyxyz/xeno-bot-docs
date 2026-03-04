@@ -22,34 +22,62 @@ theme:
         icon: material/white-balance-sunny
         name: Switch to light mode
 
-plugins:
-  - search
-  - mkdocstrings
-  - mermaid2
-  - awesome-pages
-  - redirects
-  - minify:
-      minify_html: true
-  - git-authors
-  - include-markdown
-  - macros
-  - i18n:
-      languages:
+  # Navigation is auto-generated from `docs/` directory structure; do not add a
+  # manual `nav:` section if you want the sidebar to reflect file changes.
 
-        # Navigation is generated automatically from `docs/` directory structure.
-        # Remove this `nav:` section to let MkDocs generate the sidebar from files
-        # so adding/removing files updates the sidebar automatically.
-  - codehilite:
-      guess_lang: false
-  - pymdownx.superfences
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.betterem
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.caret
-  - pymdownx.keys
+  plugins:
+    - search
+    - mkdocstrings
+    - mermaid2
+    - awesome-pages
+    - redirects
+    - minify:
+        minify_html: true
+    - git-authors
+    - include-markdown
+    - macros
+    - i18n:
+        languages:
+          - locale: en
+            name: English
+            default: true
+            build: true
+    - git-revision-date-localized:
+        fallback_to_build_date: false
+        locale: en
+        timezone: UTC
 
-extra_css:
-  - css/extra.css
+  repo_url: https://github.com/devvyyxyz/xeno-bot-docs
+
+  extra:
+    social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/devvyyxyz
+      - icon: fontawesome/brands/discord
+        link: https://discord.gg/WmFDeMKvzj
+      - icon: fontawesome/solid/rocket
+        link: https://top.gg/bot/1476427270326583306
+      - icon: fontawesome/solid/user-plus
+        link: https://discord.com/oauth2/authorize?client_id=1476427270326583306&scope=bot%20applications.commands&permissions=0
+    analytics:
+      provider: google
+      tracking_id: UA-XXXXX-Y
+
+  markdown_extensions:
+    - admonition
+    - toc:
+        permalink: true
+    - codehilite:
+        guess_lang: false
+    - pymdownx.superfences
+    - pymdownx.highlight
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.betterem
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.caret
+    - pymdownx.keys
+
+  extra_css:
+    - css/extra.css
