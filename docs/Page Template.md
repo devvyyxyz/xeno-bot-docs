@@ -1,8 +1,30 @@
-# <Page Title>
+---
+title: Page template
+description: Build your xenomorph hive! Eggs will randomly spawn in a channel. be the first to collect them and hatch your xenos. Grow your hive, trade with friends, and compete to create the ultimate collection.
+tags: [template, examples, answers]
+keywords: [xeno, bot, faq, documentation]
+author: Devvyyxyz
+image: assets/images/faq-og.png
+date: 2026-03-04
+permalink: 
+toc: true
+icon: material/help-circle
+aliases: [/template/]
+---
 
-One-sentence summary of what this page covers and who it is for.
+!!! note
 
-----
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+Use this section for context and expected outcomes.
+
+!!! note "Phasellus posuere in sem ut cursus"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
 ## Quick facts
 
@@ -13,7 +35,7 @@ One-sentence summary of what this page covers and who it is for.
 
 ## Overview
 
-!!! note ""
+!!! note
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
