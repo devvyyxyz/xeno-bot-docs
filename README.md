@@ -23,6 +23,8 @@ mkdocs serve
 python -m mkdocs serve
 ```
 
+Note: The site sidebar is now auto-generated from the `docs/` directory structure. You do not need to maintain a `nav:` section in `mkdocs.yml`; add or remove Markdown files under `docs/` to update the sidebar automatically.
+
 Build static site
 
 ```bash
