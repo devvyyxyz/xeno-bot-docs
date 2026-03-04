@@ -15,6 +15,8 @@ Thank you for helping improve the docs and project. This file explains the recom
 
 ## Editing docs locally
 
+- Use the page template at [Page Template](Page Template.md) when creating a new documentation page.
+
 1. Create and activate a Python venv in the repository root:
 
 ```bash
