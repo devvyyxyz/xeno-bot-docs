@@ -1,0 +1,61 @@
+{# Custom footer override to add 'Edit this page' link and contributors #}
+<div class="md-footer-edit" style="margin-top:8px">
+  {# Footer edit button removed — edit controls appear beside titles now #}
+  {# Prefer repository git revision date, fall back to page meta date if present #}
+  {% set last_updated = None %}
+  {% if page.meta and page.meta.date %}
+    {% set last_updated = page.meta.date %}
+  {% elif page.git_revision_date_localized %}
+    {% set last_updated = page.git_revision_date_localized %}
+  {% elif git_revision_date_localized %}
+    {% set last_updated = git_revision_date_localized %}
+  {% endif %}
+
+  {% if last_updated %}
+    <div class="md-last-updated" style="margin-top:8px;font-size:0.9em;color:var(--md-typeset-meta)">
+      <strong>Last updated:</strong>
+      {{ last_updated }}
+    </div>
+  {% endif %}
+
+  {# Contributors: accept either `authors` or single `author` in page meta #}
+  {% set contributors = None %}
+  {% if page.meta and page.meta.authors %}
+    {% set contributors = page.meta.authors %}
+  {% elif page.meta and page.meta.author %}
+    {% set contributors = page.meta.author %}
+  {% endif %}
+
+  {% if contributors %}
+    <div class="md-contributors" style="margin-top:6px;font-size:0.9em;color:var(--md-typeset-meta)">
+      <strong>Contributors:</strong>
+      {{ contributors }}
+    </div>
+  {% endif %}
+</div>
+
+{# Inject page-icon mapping and client-side injector using Iconify #}
+<script>
+  window.__md_page_icons = {
+  {% for p in pages %}
+    {% if p.meta and p.meta.icon is defined %}
+      {{ p.title|tojson }}: {{ p.meta.icon|tojson }},{% endif %}
+  {% endfor %}
+  };
+</script>
+<script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var mapping = window.__md_page_icons || {};
+    document.querySelectorAll('.md-nav__link').forEach(function (el) {
+      var text = el.textContent.trim();
+      var icon = mapping[text];
+      if (icon) {
+        var iconSpan = el.querySelector('.md-nav__icon') || el.querySelector('span.md-nav__icon');
+        if (iconSpan) {
+          iconSpan.innerHTML = '<span class="iconify" data-icon="' + icon + '" data-inline="false"></span>';
+        }
+      }
+    });
+  });
+</script>

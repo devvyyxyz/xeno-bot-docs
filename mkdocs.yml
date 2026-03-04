@@ -1,5 +1,6 @@
-edit_uri: https://{site}/edit/{path}
-site_name: Xeno Bot Docs
+edit_uri: https://github.com/devvyyxyz/xeno-bot-docs/edit/main/docs/
+site_name: Xeno Bot documentation
+site_url: https://xeno-bot-docs.devvyy.xyz
 site_description: Documentation for Xeno Bot
 theme:
   name: material
@@ -9,7 +10,7 @@ theme:
   features:
     - content.action.edit
     - content.action.view
-    # navigation.tabs removed to use left sidebar navigation
+    - navigation.footer
   palette:
     - scheme: default
       primary: indigo
@@ -28,11 +29,12 @@ theme:
   # manual `nav:` section if you want the sidebar to reflect file changes.
 
   plugins:
+    - blog
     - search
     - material/tags
     - mkdocstrings
     - mermaid2
-    - awesome-pages
+    # - awesome-pages  # disabled to allow Material to propagate page icons into nav
     - redirects
     - minify:
         minify_html: true
@@ -53,6 +55,7 @@ theme:
   repo_url: https://github.com/devvyyxyz/xeno-bot-docs
 
   extra:
+    generator: true
     social:
       - icon: fontawesome/brands/github
         link: https://github.com/devvyyxyz
@@ -67,20 +70,42 @@ theme:
       tracking_id: UA-XXXXX-Y
 
   markdown_extensions:
-    - admonition
     - toc:
         permalink: true
     - codehilite:
         guess_lang: false
-    - pymdownx.superfences
-    - pymdownx.highlight
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
     - pymdownx.inlinehilite
     - pymdownx.magiclink
     - pymdownx.betterem
+    - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+    - pymdownx.snippets
     - pymdownx.tasklist:
         custom_checkbox: true
+    - pymdownx.tabbed:
+        alternate_style: true
+    - pymdownx.emoji
     - pymdownx.caret
     - pymdownx.keys
+    - pymdownx.critic
+    - pymdownx.mark
+    - pymdownx.tilde
+    - attr_list
+    - md_in_html
+    - pymdownx.superfences
+    - tables
+    - footnotes
 
   extra_css:
     - css/extra.css
+
+copyright: Copyright &copy; Devvyyxyz

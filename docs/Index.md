@@ -14,6 +14,13 @@ aliases: [/home/]
 
 ## Core systems
 
+<div class="admonition note">
+    <p class="admonition-title">Note</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.</p>
+</div>
+
 ### Egg collecting
 Collect eggs of all varieties, eggs come with different spawn chances and give different rewards once hatched to be used for xenomorph pathways
 
