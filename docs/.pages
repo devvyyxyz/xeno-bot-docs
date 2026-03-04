@@ -1,14 +1,9 @@
 nav:
-  - Home: index.md
-  - Overview: overview.md
-  - Links: links.md
-  - Getting Started: getting-started.md
-  - Commands: commands/
-  - Setup: setup/
-  - Systems: systems/
-  - Examples: examples.md
-  - History: history.md
-  - Contributing: contributing.md
-  - FAQ: faq.md
-  - Troubleshooting: troubleshooting.md
-  - Changelog: changelog.md
+  - Home: Home.md
+  - Installation: installation.md
+  - Configuration: Configuration.md
+  - Self Hosting: Self Hosting/
+  - Contributing: Contributing.md
+  - FAQ: FAQ.md
+  - Project History: Project History.md
+  - Changelog: Changelog.md
