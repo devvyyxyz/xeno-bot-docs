@@ -21,7 +21,7 @@ aliases:
 ---
 Short answers and troubleshooting for Xeno Bot docs (FAQ).
 
-## basic questions
+## Basic Questions
 
 > **Q: How do I catch eggs?**
 
