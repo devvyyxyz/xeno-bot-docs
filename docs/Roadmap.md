@@ -20,7 +20,11 @@ aliases:
 ---
 - [ ] Server blacklisting
 - [ ] Hive removing members
-- [ ] Pathogen pathways
 - [ ] Item usability
+- [ ] Trading
+- [ ] Pathogen pathways
 - [ ] More hunt hosts
+- [ ] Voting rewards
+- [ ] Daily rewards / quests
+- [ ] Premium currency and premium rewards
 - [ ] Hive battles
