@@ -1,0 +1,77 @@
+/* Small site-wide tweaks for spacing, typography and button visibility */
+:root{
+  --xeno-body-max-width: 88rem;
+}
+
+.md-content {
+  max-width: var(--xeno-body-max-width);
+}
+
+/* Improve spacing for headings and paragraphs */
+main h1, main h2, main h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+main p {
+  line-height: 1.6;
+  margin-bottom: 0.9rem;
+}
+
+/* Slightly larger code font and better wrapping */
+code, pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Noto Sans Mono", monospace;
+}
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Make the top edit button more visible on small screens */
+.md-edit-top .md-button {
+  font-weight: 600;
+}
+
+/* Contributors/metadata appearance in footer */
+.md-contributors, .md-last-updated {
+  opacity: 0.95;
+}
+
+/* Comments block styling */
+.md-comments {
+  border-top: 1px solid rgba(0,0,0,0.06);
+  padding-top: 16px;
+  margin-top: 20px;
+}
+.md-comments__title {
+  font-size: 1.15rem;
+  margin-bottom: 6px;
+}
+.md-comments__widget {
+  min-height: 120px;
+}
+
+/* Page tag chips shown under page title */
+.md-page-tags { margin: .5rem 0 1rem; }
+.md-page-tags .md-tag {
+  display: inline-block;
+  margin: .15rem .25rem;
+  padding: .2rem .5rem;
+  border-radius: .5rem;
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-bg-color);
+  text-decoration: none;
+  font-size: .85em;
+}
+.md-page-tags .md-tag:hover { opacity: 0.9; }
+
+/* Page author styling (shows under title, above tags) */
+.md-page-author {
+  margin: 0.25rem 0 0.35rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.95rem;
+  display: flex;
+  gap: 0.35rem;
+  align-items: center;
+}
+.md-page-author__name { font-weight: 600; color: var(--md-typeset-a-color); }
+.md-page-author__date { color: var(--md-default-fg-color--light); font-size: .9rem; }
