@@ -13,12 +13,17 @@ keywords:
 author: Devvyyxyz
 image: assets/images/faq-og.png
 date: 2026-03-04
+permalink: /faq/
 toc: true
-icon: material/help-circle
+icon: material/frequently-asked-questions
 aliases:
   - /frequently-asked-question/
 ---
 Short answers and troubleshooting for Xeno Bot docs (FAQ).
+
+!!! note
+
+    Some Answers may be outdated as the bot is in early development, for the most up to date information please join the support server and ask in the #support channel.
 
 ## Basic Questions
 
