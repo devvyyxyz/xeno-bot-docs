@@ -52,23 +52,23 @@ aliases: [/home/]
 
 </div>
 
-## Core systems
-### Egg collecting
-Collect eggs of all varieties, eggs come with different spawn chances and give different rewards once hatched to be used for xenomorph pathways
+## Core Systems
+### Egg Collecting
+Collect eggs of all varieties, eggs come with different spawn chances and give different rewards once hatched to be used for xenomorph pathways.
 
-### Xenomorph pathways
-Each xenomorph has its own pathway aswell as sub pathways within it, I recommend checking out the wiki for a full view of all pathways and their requirments
+### Xenomorph Pathways
+Each xenomorph has its own pathway aswell as sub-pathways within it, it's recommended to check out the dedicated page for a full view of all pathways and their requirements.
 
 ### Hunts
-Go out on hunts to collect hosts to use for your evolutions, hosts are used on facehuggers of most xenomorph pathways to evolve them into the next stage
+Go out on hunts to collect hosts to use for your evolutions, hosts are used on facehuggers of most xenomorph pathways to evolve them into the next stage.
 
-### Evolving xenomorphs
-Evolve your xenomorphs into high tier varients on many different pathways and sub-pathways
+### Evolving Xenomorphs
+Evolve your xenomorphs into high-tier variants on many different pathways and sub-pathways.
 
-### hive management 
-Manage a hive to automate production and keep all your best xeno's in one place
+### Hive Management 
+Manage a hive to automate production and keep all your best xenomorphs in one place.
 
-## Hive battles (not added)
+## Hive Battles (not added)
 
 ## Factions (not added)
 
