@@ -24,6 +24,88 @@ View the full changelog of xeno-bot's development progress, including all featur
 
 ----
 
+## v1.9.12 — Command option label consistency
+
+Date: 2026-03-05
+
+- **Improved:** Standardized select-menu and autocomplete entity labels to a consistent `Name [ID]` pattern across key command flows.
+- **Updated commands:** `gift`, `hive`, `evolve`, and `devgive` option labels/autocomplete entries.
+- **Xeno context:** Added pathway context where relevant (for example, xeno options now include pathway details when useful).
+- **UX impact:** Makes it easier to match inventory entries with command choices and reduces ambiguity when selecting entities.
+
+## v1.9.11 — Evolution completion DM V2 redesign
+
+Date: 2026-03-05
+
+- **Improved:** Evolution completion direct messages now use Components V2 for cleaner presentation.
+- **New format:**
+  - `Your evolution job [jobId] completed`
+  - `<emoji> <from role> [xenoId] -> <emoji> <to role> [xenoId]`
+- **Details:** Role display names and emojis are now resolved from evolution role config for consistent naming across pathways.
+- **Reliability:** Added plain-text DM fallback if V2 component sending fails.
+
+## v1.9.10 — Gift xenomorph autocomplete + evolution status fix
+
+Date: 2026-03-05
+
+- **Fixed:** `/gift xenomorph` autocomplete now properly lists giftable xenomorphs owned by the user.
+- **Improved:** Xeno autocomplete labels now include configured xeno emoji + display name, ID, and pathway for easier selection.
+- **Fixed:** Manual `/gift xenomorph` by ID no longer incorrectly blocks gifting due to historical evolution records.
+- **Details:** Gift blocking now only checks active evolution jobs (`queued`/`processing`) instead of any row in `evolution_queue`.
+
+## v1.9.9 — New-user egg catch award fix
+
+Date: 2026-03-05
+
+- **Fixed:** Resolved spawn catch failures for first-time users that logged `Failed awarding egg`.
+- **Root cause:** `createUser()` in `user` model referenced an undefined `logger`, causing a runtime error during initial user creation.
+- **Impact:** New users can now catch spawned eggs normally, receive inventory updates, and avoid console award errors.
+- **Internal:** Added the missing user-model logger initialization and kept existing award flow unchanged.
+
+## v1.9.8 — Inventory xeno list formatting polish
+
+Date: 2026-03-05
+
+- **Improved:** `/inventory` xenomorph entries now use host-style formatting for readability and consistency.
+- **Before:** `#663 facehugger: Pathway: standard • Created: ...`
+- **Now:** `<xeno emoji> <xeno display name> [663]: Created ...`
+- **Details:** Xeno labels now use evolution role metadata (display name + configured emoji) and keep a clean timestamp line similar to host entries.
+
+## v1.9.7 — Hive create-flow interaction fix
+
+Date: 2026-03-05
+
+- **Fixed:** `/hive` no-hive create flow no longer breaks interactions on the same message after creating a hive.
+- **Bug behavior before:** Creating a hive from the no-hive prompt, then using dashboard buttons on that same message, resulted in failed interactions.
+- **Now:** After pressing **View Hive**, the same message is upgraded to the full hive dashboard collector so Stats/Modules/Milestones/Queen/Members and management actions function normally.
+- **Internal:** Refactored hive dashboard collector wiring into a reusable attachment path used by both existing-hive and post-create view flows.
+
+## v1.9.6 — Eggs list claim pagination fix
+
+Date: 2026-03-05
+
+- **Fixed:** `/eggs list` no longer resets to page 1 when claiming/collecting an egg from later pages.
+- **Improved:** Collect actions now preserve the current list page context so users can claim multiple eggs on page 2+ without repeatedly pressing Next.
+- **Technical:** Collect button IDs now carry page context and all eggs-list collectors restore that page before re-rendering.
+
+Commit: post-v1.9.5 fix for eggs list paging state retention.
+
+## v1.9.5 — Post-1.9.4 gameplay, UX, and data integrity updates
+
+Date: 2026-03-05
+
+- **Gameplay & Balance:** Added grantable-only **Golden Egg** support and excluded grantable-only eggs from normal spawns; rebalanced egg/host spawn weights (including rarer deacon/neomorph and king-pathway tuning).
+- **Inventory UX:** Expanded `/inventory` with sorting + filtering across eggs, items, hosts, and xenomorphs (including type/stage filters and richer pagination behavior).
+- **Stats UI:** Refactored `/stats` to Components V2 with improved sectioned layout and user avatar thumbnail.
+- **ID Management:** Implemented reusable-ID insertion utility for `hives`, `hosts`, and `xenomorphs` so deleted IDs are reused instead of always incrementing.
+- **Dog Pathway Fixes:** Updated dog pathway first evolution to **runner**, added/updated runner and related xeno emoji/assets, and added migration tooling for legacy dog drones.
+- **Encyclopedia Expansion:** Added **Xenos** catalogue view to `/encyclopedia` and added rarity metadata to evolution roles so xeno entries show rarity with rarity emojis.
+- **Gift/Hive Integrity Fix:** Fixed `/gift xenomorph` so gifted xenos clear `hive_id` on transfer (prevents unintended reassignment when gifted back); added cleanup migration for stale/invalid xeno↔hive links.
+- **Hive Management Iterations:** Multiple hive-screen improvements including module upgrades, members pagination/navigation, delete confirmations/back flow, snapshot/readability updates, and queen/module action flow polish.
+- **Developer/Infra Improvements:** Added devgive host-type handling/autocomplete improvements and command-registration guardrails to reduce profile double-registration risk.
+
+Commits included (after v1.9.4): `cfebf00`, `d2206d9`, `599d4c0`, `fa1efd6`, `c07f181`, `1c88cf6`, `ec291af`, `964564e`, `eb04e2f`, `0ea96b7`, `f249a5c`, `31b4d6b`, `9144806`, `d4eb9b4`, `30c943c`, `d98a1db`, `a7ddd16`, `cc25963`, `8f987cd`, `d0b7ebf`, `e83ecb2`, `6088b0c`, `c6671af`, `a4b66f4`, `c9fd9a4`, `37f8c73`, `2af9a10`, `eb50837`, `64762e7`, `17f095e`, `e9f7844`, `4c44526`, `6452859`, `bd6af2c`, `4f9d299`, `710fe87`.
+
 ## v1.9.4 — Hive queen restrictions and UI polish
 
 Date: 2026-03-03
@@ -541,3 +623,6 @@ This patch release improves `/evolve list` usability and resolves Discord compon
 
 - Version bumped to `1.9.3`.
 - Patch release contains no intentional breaking changes.
+
+
+

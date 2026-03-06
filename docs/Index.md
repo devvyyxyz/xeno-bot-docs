@@ -14,38 +14,41 @@ aliases: [/home/]
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+-   :material-rocket-launch:{ .lg .middle } __Start your hive__
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    Learn the core loop quickly: catch eggs, manage inventory,
+    and evolve your first xenomorph.
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Getting Started](Getting Started.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
+-   :material-server:{ .lg .middle } __Self-host the bot__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Deploy Xeno Bot on your own infrastructure and keep full
+    control over uptime and updates.
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Installation](Self Hosting/installation.md)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-   :material-tune-variant:{ .lg .middle } __Configure your setup__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    Adjust settings, features, and behavior to fit your server
+    and preferred progression pace.
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: Configuration](Self Hosting/Configuration.md)
+
+-   :material-help-circle:{ .lg .middle } __Need quick answers?__
+
+    ---
+
+    Browse common gameplay, progression, and command questions
+    in the FAQ.
+
+    [:octicons-arrow-right-24: Open FAQ](/faq/)
 
 </div>
 

@@ -17,7 +17,7 @@ image:
 date: 2026-03-04
 permalink: /deployment/
 toc: true
-icon: material/help-circle
+icon: material/server
 aliases:
   - /deploying/
 ---
