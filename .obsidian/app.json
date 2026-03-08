@@ -21,5 +21,6 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:insert-callout"
-  ]
+  ],
+  "livePreview": false
 }

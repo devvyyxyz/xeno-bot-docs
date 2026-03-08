@@ -1,5 +1,5 @@
 ---
-title: Predator Host
+title: Template Host
 description:
 tags:
 keywords:
@@ -9,19 +9,17 @@ keywords:
 author: Devvyyxyz
 image:
 date: 2026-03-04
-permalink: /predator-host/
+permalink: /template-host/
 toc: true
 icon: material/file-document
 aliases:
-  - /predator-host/
+  - /template-host/
 ---
 
 ## Overview
 
-![Predator banner](../img/emojis/predator.png)
+![Host](../img/emojis/predator.png)
 
 ## Pathways
-
-List the in-game pathways or uses for this host. Pages that reference this host are listed automatically below:
 
 {{ read_raw('docs/_generated/backlinks/Hosts_predator.md') }}

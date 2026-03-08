@@ -30,7 +30,9 @@ Thank you for helping improve the docs and project. This file explains the recom
 
 ## Editing docs locally
 
-- Use the page template at [Page Template](Templates/Page%20Template.md) when creating a new documentation page.
+- Use the page template at [basic-template](basic-template.md)ting a new documentation page.
+
+----
 
 1. Create and activate a Python venv in the repository root:
 

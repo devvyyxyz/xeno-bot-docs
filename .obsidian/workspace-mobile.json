@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/FAQ.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "FAQ"
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Templates/Page Template.md",
+                "file": "docs/Templates/basic-template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Page Template"
+              "title": "basic-template"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Eggs.md",
+                "file": "docs/history.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Eggs"
+              "title": "history"
             }
           }
         ],
@@ -206,43 +206,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec194df0b7125105",
+  "active": "65dcb6c80d067d53",
   "lastOpenFiles": [
-    "docs/Hives/K-series/index.md",
-    "docs/javascripts/tablesort.js",
-    "docs/data/egg_stats.csv",
-    "docs/data",
-    "docs/Eggs.md",
-    "/requirements.txt",
-    "/mkdocs.yml",
-    "/docs/javascripts/tablesort.js",
-    "/docs/index.md",
-    "/docs/css/extra.css",
-    "/docs/css",
-    "/docs/Getting Started.md",
-    "/docs/Eggs.md",
-    "/data/egg_stats.csv",
-    "/docs/javascripts",
-    "docs/Hives/Pathogen/index.md",
-    "docs/Hives/Pink/index.md",
-    "docs/Hives/Red/index.md",
-    "docs/Hives/White/index.md",
-    "docs/Xenomorphs/Hybrids/xenoborg.md",
-    "docs/Xenomorphs/Hybrids/biodrone.md",
-    "docs/Xenomorphs/Hybrids/albino.md",
-    "docs/Xenomorphs/Hybrids/achorpoint.md",
-    "docs/Xenomorphs/Aquatic/index.md",
+    "docs/Roadmap.md",
     "docs/history.md",
-    "docs/Xenomorphs/Space-Jockey/Untitled.md",
-    "docs/Xenomorphs/Necromorph/index.md",
-    "docs/Xenomorphs/Trophy Hatchling/index.md",
-    "docs/Xenomorphs/Hybrids/mr-sinister.md",
-    "docs/Xenomorphs/Hybrids/tarkatan.md",
-    "docs/Xenomorphs/Royals/matriarch-queen.md",
-    "docs/Xenomorphs/Offspring/index.md",
-    "docs/Xenomorphs/Newborn/index.md",
-    "docs/Xenomorphs/Royals/xeno-godess.md",
-    "docs/Xenomorphs/Royals/queen-mother.md",
+    "docs/FAQ.md",
+    "docs/Eggs.md",
+    "docs/Contributing.md",
+    "docs/Templates/basic-template.md",
+    "docs/Templates/host-template.md",
+    "docs/Templates/xenomorph-template.md",
+    "docs/Xenomorphs/Predalien/index.md",
+    "docs/_generated/contributors_auto.md",
+    "docs/_generated/backlinks/_generated_backlinks_Commands_Information.md",
+    "docs/Hosts/predator.md",
+    "docs/LICENSE",
+    "scripts/generate_backlinks.py",
+    "scripts/generate_contributors.py",
+    "scripts",
+    "docs/_generated/backlinks/_generated_backlinks_img_emojis_atom.png_index.md",
+    "docs/_generated/backlinks/_generated_backlinks_Self Hosting_installation.md",
+    "docs/_generated/backlinks/Hosts_dog.md",
+    "docs/_generated/backlinks/_generated_backlinks_img_emojis_egg.png__index.md",
+    "docs/_generated/backlinks/img_emojis_predalien.png_index.md",
+    "docs/_generated/backlinks/Commands_index.md",
+    "docs/_generated/backlinks/img_emojis_neomorph.png_index.md",
+    "docs/_generated/backlinks/_generated_backlinks_Pathways.md",
+    "docs/_generated/backlinks/Pathways.md",
+    "docs/_generated/backlinks/img_emojis_king.png_index.md",
+    "docs/_generated/backlinks/_generated_backlinks_img_emojis_runner.png__index.md",
+    "docs/_generated/backlinks/_generated_backlinks_faq_index.md",
+    "docs/_generated/backlinks/_generated_backlinks_img_emojis_Hammerpede.webp_index.md",
+    "docs/_generated/backlinks/_generated_backlinks_img_emojis_predator.png__index.md",
+    "docs/_generated/backlinks",
+    "/scripts/generate_contributors.py",
+    "/scripts/generate_backlinks.py",
+    "/overrides/partials/footer.html",
+    "overrides/partials/footer.html",
+    "/overrides/partials",
     "docs/img/banners/LV-426.png",
     "/docs/img/banners/LV-426.png",
     "docs/img/emojis/egg_crate.png",
