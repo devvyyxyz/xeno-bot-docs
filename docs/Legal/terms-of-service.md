@@ -11,7 +11,7 @@ image:
 date: 2026-03-04
 permalink: /template/
 toc: true
-icon: material/file-document
+icon: fontawesome/regular-newspaper
 aliases:
   - /template/
 ---
