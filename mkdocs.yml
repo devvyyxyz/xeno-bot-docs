@@ -39,7 +39,6 @@ plugins:
         - "drafts/**"
   - blog
   - search
-  - material/tags
   - mkdocstrings
   - mermaid2
   # - awesome-pages  # disabled to allow Material to propagate page icons into nav
@@ -123,5 +122,6 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+  - javascripts/hide-tags-nav.js
 
 copyright: Copyright &copy; Devvyyxyz
