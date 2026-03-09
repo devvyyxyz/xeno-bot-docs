@@ -30,7 +30,7 @@ aliases: [/home/]
     Deploy Xeno Bot on your own infrastructure and keep full
     control over uptime and updates.
 
-    [:octicons-arrow-right-24: Installation](Self Hosting/installation.md)
+    [:octicons-arrow-right-24: Installation](Self-Hosting/installation.md)
 
 -   :material-tune-variant:{ .lg .middle } __Configure your setup__
 
@@ -39,7 +39,7 @@ aliases: [/home/]
     Adjust settings, features, and behavior to fit your server
     and preferred progression pace.
 
-    [:octicons-arrow-right-24: Configuration](Self Hosting/Configuration.md)
+    [:octicons-arrow-right-24: Configuration](Self-Hosting/Configuration.md)
 
 -   :material-help-circle:{ .lg .middle } __Need quick answers?__
 
@@ -51,27 +51,3 @@ aliases: [/home/]
     [:octicons-arrow-right-24: Open FAQ](/faq/)
 
 </div>
-
-## Core Systems
-### Egg Collecting
-Collect eggs of all varieties, eggs come with different spawn chances and give different rewards once hatched to be used for xenomorph pathways.
-
-### Xenomorph Pathways
-Each xenomorph has its own pathway aswell as sub-pathways within it, it's recommended to check out the dedicated page for a full view of all pathways and their requirements.
-
-### Hunts
-Go out on hunts to collect hosts to use for your evolutions, hosts are used on facehuggers of most xenomorph pathways to evolve them into the next stage.
-
-### Evolving Xenomorphs
-Evolve your xenomorphs into high-tier variants on many different pathways and sub-pathways.
-
-### Hive Management 
-Manage a hive to automate production and keep all your best xenomorphs in one place.
-
-## Hive Battles (not added)
-
-## Factions (not added)
-
-## Trading (not added)
-
-## "Gambling" (not added)

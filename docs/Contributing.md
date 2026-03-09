@@ -120,7 +120,7 @@ By leveraging Obsidian and these two plugins, you can create a smooth editing ex
 
 ## Editing docs locally
 
-- Use the page template at [basic-template](basic-template.md)ting a new documentation page.
+- Use the page template at [basic-template](Templates/basic-template.md)ting a new documentation page.
 
 ----
 

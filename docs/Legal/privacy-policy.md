@@ -11,8 +11,9 @@ image:
 date: 2026-03-04
 permalink: /template/
 toc: true
-icon: material/eye-lock
-  - /template/
+icon: material/file-document
+aliases:
+    - /template/
 ---
 Devvyyxyz ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how Xeno Bot ("the Bot") collects, uses, stores, and protects your data. By using Xeno Bot, you agree to the terms outlined in this policy.
 

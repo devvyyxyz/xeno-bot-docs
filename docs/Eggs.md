@@ -31,5 +31,5 @@ The table below outlines critical stats for all currently implemented eggs:
 ----
 
 ## Related Resources
-- [How To Analyze Egg Statistics](analysis.md)  
-- [Trading Tips And Strategies](tips-and-tricks.md)
+- [How To Analyze Egg Statistics](eggs/analysis.md)  
+- [Trading Tips And Strategies](trading/tips-and-tricks.md)
