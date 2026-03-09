@@ -7,7 +7,7 @@ author: Devvyyxyz
 image:
 date: 2026-03-06
 toc: true
-icon: material/dice
+icon: material/dice-d20
 aliases:
   - /commands/administration/
 ---
