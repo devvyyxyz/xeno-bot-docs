@@ -21,7 +21,7 @@ aliases: [/home/]
     Learn the core loop quickly: catch eggs, manage inventory,
     and evolve your first xenomorph.
 
-    [:octicons-arrow-right-24: Getting Started](Getting Started.md)
+    [:octicons-arrow-right-24: Getting Started](getting-started.md)
 
 -   :material-server:{ .lg .middle } __Self-host the bot__
 
