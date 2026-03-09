@@ -1,2 +1,3 @@
+- [Host](/Templates/host-template)
 - [Predator](/Pathways)
 - [Predator banner](/Hosts/predator)

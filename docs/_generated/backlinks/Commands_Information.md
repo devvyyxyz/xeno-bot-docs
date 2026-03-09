@@ -1,1 +1,4 @@
+- [Information](/tags/info/)
+- [Information](/tags/commands/)
+- [Information](/tags/reference/)
 - [Information](/Commands/)

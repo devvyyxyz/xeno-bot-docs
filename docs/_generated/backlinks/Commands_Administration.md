@@ -1,1 +1,4 @@
+- [Administration](/tags/setup/)
+- [Administration](/tags/admin/)
+- [Administration](/tags/commands/)
 - [Administration](/Commands/)

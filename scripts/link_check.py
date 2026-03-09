@@ -15,6 +15,8 @@ def main():
                 soup = BeautifulSoup(fh, 'html.parser')
             for a in soup.find_all('a', href=True):
                 href = a['href'].strip()
+                # ignore URL fragments when resolving file targets
+                href = href.split('#', 1)[0].strip()
                 if href.startswith('mailto:') or href.startswith('tel:'):
                     continue
                 if href.startswith('http://') or href.startswith('https://'):

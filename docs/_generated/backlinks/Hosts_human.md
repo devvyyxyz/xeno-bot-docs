@@ -1,1 +1,3 @@
-- [Human Host](/Xenomorphs/Predalien/)
+- [human](/tags/guide/)
+- [human](/tags/example/)
+- [human](/tags/template/)

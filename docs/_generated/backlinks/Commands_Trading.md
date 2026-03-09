@@ -1,1 +1,4 @@
+- [Trading](/tags/commands/)
+- [Trading](/tags/trading/)
+- [Trading](/tags/multiplayer/)
 - [Trading](/Commands/)

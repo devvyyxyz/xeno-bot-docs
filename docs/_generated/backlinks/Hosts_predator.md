@@ -1,2 +1,2 @@
-- [Predator banner](/_generated/backlinks/img_emojis_predator.png_)
-- [Predator banner](/_generated/backlinks/img_emojis_predator.png_index.md)
+- [Predator Host](/Templates/xenomorph-template)
+- [Predator Host](/Xenomorphs/Predalien/)

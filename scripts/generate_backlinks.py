@@ -43,6 +43,12 @@ def resolve_link(link_url, src_relpath):
 def find_all_links():
     links = {}  # src_relpath -> list of (title, resolved_rel)
     for root, _, files in os.walk(DOCS_DIR):
+        # Skip generated output to avoid self-referential entries and
+        # erroneous image-based backlink artifacts.
+        out_dir_abs = os.path.abspath(OUT_DIR)
+        root_abs = os.path.abspath(root)
+        if root_abs.startswith(out_dir_abs):
+            continue
         for f in files:
             if not f.endswith('.md'):
                 continue

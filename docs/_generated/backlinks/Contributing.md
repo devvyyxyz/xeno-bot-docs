@@ -1,2 +1,3 @@
-- [Page Template](/_generated/backlinks/Templates_Page%20Template.md)
-- [Page Template](/_generated/backlinks/Templates_Page%20Template)
+- [Contributing](/tags/development/)
+- [Contributing](/tags/contributing/)
+- [Contributing](/tags/guidelines/)

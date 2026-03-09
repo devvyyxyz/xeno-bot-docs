@@ -1,2 +1,5 @@
+- [Collection](/tags/guide/)
+- [Collection](/tags/collection/)
+- [Collection](/tags/commands/)
 - [Collection](/Commands/)
 - [Encyclopedia command](/Pathways)

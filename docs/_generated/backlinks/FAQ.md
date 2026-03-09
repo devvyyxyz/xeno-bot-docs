@@ -1,0 +1,3 @@
+- [FAQ](/tags/answers/)
+- [FAQ](/tags/faq/)
+- [FAQ](/tags/questions/)

@@ -1,1 +1,4 @@
+- [Gameplay](/tags/guide/)
+- [Gameplay](/tags/gameplay/)
+- [Gameplay](/tags/commands/)
 - [Gameplay](/Commands/)

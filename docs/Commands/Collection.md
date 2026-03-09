@@ -32,6 +32,6 @@ TODO: Document item utility actions.
 
 TODO: Document host list filters and actions.
 
-## /encyclopedia
+## Encyclopedia
 
 TODO: Document egg encyclopedia lookup and stat fields.

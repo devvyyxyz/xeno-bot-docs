@@ -1,0 +1,1 @@
+- [How To Analyze Egg Statistics](/Eggs)

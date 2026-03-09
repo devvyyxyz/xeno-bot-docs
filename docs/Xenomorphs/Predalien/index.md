@@ -29,4 +29,4 @@ The Predalien is a hybrid xenomorph that combines features of a Predator-bonded 
 
 The following hosts are known to support Predalien evolution or breeding. Click to view host details:
 
-- [Predator Host](/predator-host/) — common host used for Predalien evolution.
+- [Predator Host](../../Hosts/predator.md) — common host used for Predalien evolution.

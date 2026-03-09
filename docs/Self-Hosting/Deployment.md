@@ -195,7 +195,7 @@ Here are some reliable hosting platforms to consider for deploying Xeno Bot:
 - [Configuration Guide](/Self-Hosting/Configuration/): Learn about environment variables and JSON configuration files.
 - [Installation Guide](/Self-Hosting/installation/): Step-by-step instructions for installing Xeno Bot and its dependencies.
 
-For help with specific issues, consult the [Troubleshooting Guide](/troubleshooting/) (if available) or join our community.
+For help with specific issues, consult the [Troubleshooting section](installation.md#troubleshooting-installation-issues) of the Installation guide or join our community.
 
 ---
 

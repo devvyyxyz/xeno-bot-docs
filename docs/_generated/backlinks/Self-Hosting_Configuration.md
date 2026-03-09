@@ -1,0 +1,5 @@
+- [:octicons-arrow-right-24: Configuration](/)
+- [Configuration](/tags/instructions/)
+- [Configuration](/tags/self-hosting/)
+- [Configuration](/tags/config/)
+- [Configuration](/tags/setup/)

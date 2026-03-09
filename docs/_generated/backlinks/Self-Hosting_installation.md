@@ -1,0 +1,7 @@
+- [:octicons-arrow-right-24: Installation](/)
+- [installation](/tags/guide/)
+- [installation](/tags/setup/)
+- [installation](/tags/installation/)
+- [installation](/tags/requirements/)
+- [installation](/tags/getting-started/)
+- [Troubleshooting section](/Self-Hosting/Deployment)

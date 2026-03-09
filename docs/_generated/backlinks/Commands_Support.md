@@ -1,1 +1,4 @@
+- [Support](/tags/support/)
+- [Support](/tags/commands/)
+- [Support](/tags/community/)
 - [Support](/Commands/)

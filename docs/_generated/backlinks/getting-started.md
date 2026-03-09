@@ -1,0 +1,4 @@
+- [:octicons-arrow-right-24: Getting Started](/)
+- [getting-started](/tags/faq/)
+- [getting-started](/tags/setup/)
+- [getting-started](/tags/start/)

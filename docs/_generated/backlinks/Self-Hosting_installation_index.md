@@ -1,0 +1,1 @@
+- [Installation Guide](/Self-Hosting/Deployment)
