@@ -29,6 +29,13 @@ theme:
   # manual `nav:` section if you want the sidebar to reflect file changes.
 
 plugins:
+  - exclude:
+      # Glob patterns are relative to the `docs/` directory. Edit these to match
+      # files or directories you want hidden from the site navigation.
+      glob:
+        - "Legal/*"
+        - "Self-Hosting/*"
+        - "drafts/**"
   - blog
   - search
   - material/tags

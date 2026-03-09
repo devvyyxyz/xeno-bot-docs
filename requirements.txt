@@ -5,6 +5,7 @@ mkdocstrings
 mkdocs-mermaid2-plugin
 pymdown-extensions
 mkdocs-awesome-pages-plugin
+mkdocs-exclude
 mkdocs-redirects
 mkdocs-minify-plugin
 mike
