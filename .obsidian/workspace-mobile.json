@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Self-Hosting/installation.md",
-                "mode": "preview",
+                "file": "docs/Legal/terms-of-service.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "installation"
+              "title": "terms-of-service"
             }
           }
         ],
@@ -208,11 +208,14 @@
   },
   "active": "ec194df0b7125105",
   "lastOpenFiles": [
+    "docs/Legal/privacy-policy.md",
+    "docs/Legal/terms-of-service.md",
+    "docs/Self-Hosting/installation.md",
+    "docs/Legal",
     "docs/Commands/Gambling.md",
     "docs/Commands/Administration.md",
     "docs/Templates/xenomorph-template.md",
     "docs/FAQ.md",
-    "docs/Self-Hosting/installation.md",
     "docs/Self-Hosting/Deployment.md",
     "docs/Self-Hosting/Configuration.md",
     "configuration.md",
@@ -238,12 +241,9 @@
     "scripts/generate_contributors.py",
     "scripts",
     "docs/_generated/backlinks/_generated_backlinks_img_emojis_atom.png_index.md",
-    "docs/_generated/backlinks/_generated_backlinks_Self Hosting_installation.md",
-    "docs/_generated/backlinks/Hosts_dog.md",
     "docs/_generated/backlinks",
     "/scripts/generate_contributors.py",
     "/scripts/generate_backlinks.py",
-    "/overrides/partials/footer.html",
     "docs/img/banners/LV-426.png",
     "/docs/img/banners/LV-426.png",
     "docs/img/emojis/egg_crate.png",
