@@ -107,7 +107,7 @@ Xeno Bot requires configuration files in `config/`. Verify that the following fi
 - `config/bot.dev.json`: Development-specific settings.
 
 !!! note
-    For detailed configuration steps, see the [Configuration Guide](/configuration/).
+    For detailed configuration steps, see the [Configuration Guide](/Self-Hosting/Configuration/).
 
 ---
 
@@ -147,10 +147,10 @@ npm install --legacy-peer-deps
 ```
 
 ### Issue: Missing `.env` Variables
-**Solution**: Double-check that the `.env` file exists and is properly configured. Refer to the [Configuration Guide](/configuration/) for details.
+**Solution**: Double-check that the `.env` file exists and is properly configured. Refer to the [Configuration Guide](/Self-Hosting/Configuration/) for details.
 
 !!! tip
-    For more issues, visit the [Deployment Guide](/deployment/) or join our community for assistance.
+    For more issues, visit the [Deployment Guide](/Self-Hosting/Deployment/) or join our community for assistance.
 
 ---
 
@@ -184,7 +184,7 @@ services:
 ```
 
 !!! tip
-    For more advanced deployments, see the [Deployment Guide](/deployment/).
+    For more advanced deployments, see the [Deployment Guide](/Self-Hosting/Deployment/).
 
 ---
 
@@ -213,8 +213,8 @@ npm run deploy-commands
 
 - [Node.js Download](https://nodejs.org/)
 - [Git Download](https://git-scm.com/)
-- [Configuration Guide](/configuration/)
-- [Deployment Guide](/deployment/)
+- [Configuration Guide](/Self-Hosting/Configuration/)
+- [Deployment Guide](/Self-Hosting/Deployment/)
 - [GitHub Repository](https://github.com/devvyyxyz/xeno-bot)
 
 ---

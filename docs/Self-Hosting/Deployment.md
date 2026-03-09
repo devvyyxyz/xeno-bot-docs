@@ -31,8 +31,8 @@ Deploying Xeno Bot is a straightforward process, with flexible options for both 
 ## Prerequisites
 
 Before deploying Xeno Bot, ensure you have completed the following steps:
-1. **Configure the Bot**: Follow the [Configuration Guide](docs/Self-Hosting/Configuration) to set up your environment variables and JSON configuration files.
-2. **Install Dependencies**: See the [Installation Page](docs/Self-Hosting/installation) for instructions on installing the required packages and tools.
+1. **Configure the Bot**: Follow the [Configuration Guide](/Self-Hosting/Configuration/) to set up your environment variables and JSON configuration files.
+2. **Install Dependencies**: See the [Installation Page](/Self-Hosting/installation/) for instructions on installing the required packages and tools.
 
 !!! note
     Proper configuration and installation are critical for a successful deployment. Ensure all prerequisites are met before proceeding.
@@ -192,8 +192,8 @@ Here are some reliable hosting platforms to consider for deploying Xeno Bot:
 
 ## Additional Resources
 
-- [Configuration Guide](/configuration/): Learn about environment variables and JSON configuration files.
-- [Installation Guide](/installation/): Step-by-step instructions for installing Xeno Bot and its dependencies.
+- [Configuration Guide](/Self-Hosting/Configuration/): Learn about environment variables and JSON configuration files.
+- [Installation Guide](/Self-Hosting/installation/): Step-by-step instructions for installing Xeno Bot and its dependencies.
 
 For help with specific issues, consult the [Troubleshooting Guide](/troubleshooting/) (if available) or join our community.
 

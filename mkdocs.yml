@@ -34,7 +34,8 @@ plugins:
       # files or directories you want hidden from the site navigation.
       glob:
         - "_generated/**"
-        - "Templates/**"
+          # Templates/ should be visible so the template pages can be referenced
+          # from other docs (e.g., Contributing). Do not exclude.
         - "drafts/**"
   - blog
   - search
