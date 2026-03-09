@@ -2,7 +2,7 @@
 title: changelog
 permalink: /tags/changelog/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "changelog"

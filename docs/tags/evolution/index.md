@@ -2,7 +2,7 @@
 title: evolution
 permalink: /tags/evolution/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "evolution"

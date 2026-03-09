@@ -2,7 +2,7 @@
 title: info
 permalink: /tags/info/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "info"

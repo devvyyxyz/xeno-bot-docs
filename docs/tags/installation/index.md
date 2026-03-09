@@ -2,7 +2,7 @@
 title: installation
 permalink: /tags/installation/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "installation"

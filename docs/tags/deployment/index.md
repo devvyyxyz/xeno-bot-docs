@@ -2,7 +2,7 @@
 title: deployment
 permalink: /tags/deployment/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "deployment"

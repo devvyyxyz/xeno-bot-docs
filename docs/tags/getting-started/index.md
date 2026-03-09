@@ -2,7 +2,7 @@
 title: getting-started
 permalink: /tags/getting-started/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "getting-started"

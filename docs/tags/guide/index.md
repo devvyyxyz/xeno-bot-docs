@@ -2,7 +2,7 @@
 title: guide
 permalink: /tags/guide/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "guide"

@@ -2,7 +2,7 @@
 title: gameplay
 permalink: /tags/gameplay/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "gameplay"

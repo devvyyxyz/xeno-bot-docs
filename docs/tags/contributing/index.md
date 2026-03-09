@@ -2,7 +2,7 @@
 title: contributing
 permalink: /tags/contributing/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "contributing"

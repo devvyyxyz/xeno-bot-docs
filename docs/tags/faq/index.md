@@ -2,7 +2,7 @@
 title: faq
 permalink: /tags/faq/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "faq"

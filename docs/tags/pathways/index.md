@@ -2,7 +2,7 @@
 title: pathways
 permalink: /tags/pathways/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "pathways"

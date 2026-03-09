@@ -2,7 +2,7 @@
 title: template
 permalink: /tags/template/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "template"

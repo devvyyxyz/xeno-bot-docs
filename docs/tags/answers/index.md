@@ -2,7 +2,7 @@
 title: answers
 permalink: /tags/answers/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "answers"

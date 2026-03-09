@@ -2,7 +2,7 @@
 title: commands
 permalink: /tags/commands/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "commands"

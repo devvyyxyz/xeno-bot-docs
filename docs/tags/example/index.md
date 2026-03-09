@@ -2,7 +2,7 @@
 title: example
 permalink: /tags/example/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "example"

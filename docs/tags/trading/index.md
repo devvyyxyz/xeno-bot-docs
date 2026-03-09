@@ -2,7 +2,7 @@
 title: trading
 permalink: /tags/trading/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "trading"

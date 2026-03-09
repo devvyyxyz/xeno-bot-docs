@@ -2,7 +2,7 @@
 title: instructions
 permalink: /tags/instructions/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "instructions"

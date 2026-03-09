@@ -2,7 +2,7 @@
 title: multiplayer
 permalink: /tags/multiplayer/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "multiplayer"

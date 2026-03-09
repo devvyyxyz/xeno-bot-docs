@@ -2,7 +2,7 @@
 title: questions
 permalink: /tags/questions/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "questions"

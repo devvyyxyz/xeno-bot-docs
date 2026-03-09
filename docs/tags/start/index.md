@@ -2,7 +2,7 @@
 title: start
 permalink: /tags/start/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "start"

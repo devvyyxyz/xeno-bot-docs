@@ -2,7 +2,7 @@
 title: admin
 permalink: /tags/admin/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "admin"

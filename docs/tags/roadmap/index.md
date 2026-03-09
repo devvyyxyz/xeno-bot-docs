@@ -2,7 +2,7 @@
 title: roadmap
 permalink: /tags/roadmap/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "roadmap"

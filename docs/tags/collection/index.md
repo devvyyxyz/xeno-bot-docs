@@ -2,7 +2,7 @@
 title: collection
 permalink: /tags/collection/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "collection"

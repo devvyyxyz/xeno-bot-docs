@@ -2,7 +2,7 @@
 title: development
 permalink: /tags/development/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "development"

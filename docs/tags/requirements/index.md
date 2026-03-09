@@ -2,7 +2,7 @@
 title: requirements
 permalink: /tags/requirements/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "requirements"

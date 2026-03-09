@@ -2,7 +2,7 @@
 title: reference
 permalink: /tags/reference/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "reference"

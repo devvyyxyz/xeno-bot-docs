@@ -2,7 +2,7 @@
 title: guidelines
 permalink: /tags/guidelines/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "guidelines"

@@ -2,7 +2,7 @@
 title: config
 permalink: /tags/config/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "config"

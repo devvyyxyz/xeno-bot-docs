@@ -2,7 +2,7 @@
 title: support
 permalink: /tags/support/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "support"

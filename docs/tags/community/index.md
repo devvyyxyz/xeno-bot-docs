@@ -2,7 +2,7 @@
 title: community
 permalink: /tags/community/
 toc: false
-hide: true
+hide: ['navigation']
 ---
 
 # Pages tagged "community"
