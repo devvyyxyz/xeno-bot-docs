@@ -21,5 +21,5 @@ Xeno Bot's history
 - title: 26th Feb 2026 - Xeno Bot creation
   content: The day Xeno Bot was created!
   icon: ':material-clock:'
-- 
+
 ::/timeline::

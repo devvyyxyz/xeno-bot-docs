@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Legal/terms-of-service.md",
+                "file": "docs/history.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "terms-of-service"
+              "title": "history"
             }
           }
         ],
@@ -206,10 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec194df0b7125105",
+  "active": "65dcb6c80d067d53",
   "lastOpenFiles": [
-    "docs/Legal/privacy-policy.md",
     "docs/Legal/terms-of-service.md",
+    "docs/Legal/privacy-policy.md",
     "docs/Self-Hosting/installation.md",
     "docs/Legal",
     "docs/Commands/Gambling.md",
