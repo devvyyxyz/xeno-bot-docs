@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Privacy Policy
 description:
 tags:
 keywords:

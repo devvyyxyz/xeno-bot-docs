@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Terms of Service
 description:
 tags:
 keywords:
