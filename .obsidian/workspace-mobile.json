@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Commands/Gambling.md",
-                "mode": "source",
+                "file": "docs/Self-Hosting/installation.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gambling"
+              "title": "installation"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "ec194df0b7125105",
   "lastOpenFiles": [
-    "docs/Commands/Administration.md",
     "docs/Commands/Gambling.md",
+    "docs/Commands/Administration.md",
     "docs/Templates/xenomorph-template.md",
     "docs/FAQ.md",
     "docs/Self-Hosting/installation.md",
