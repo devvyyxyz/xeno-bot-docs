@@ -2,6 +2,7 @@
 title: setup
 permalink: /tags/setup/
 toc: false
+hide: true
 ---
 
 # Pages tagged "setup"

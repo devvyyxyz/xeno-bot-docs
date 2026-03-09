@@ -53,6 +53,7 @@ def main():
             f'title: {info["tag"]}',
             f'permalink: /tags/{slug}/',
             f'toc: false',
+            "hide: ['navigation']",
             f'---',
             f'\n# Pages tagged "{info["tag"]}"\n'
         ]

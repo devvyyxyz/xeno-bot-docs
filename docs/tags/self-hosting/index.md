@@ -2,6 +2,7 @@
 title: self-hosting
 permalink: /tags/self-hosting/
 toc: false
+hide: true
 ---
 
 # Pages tagged "self-hosting"
