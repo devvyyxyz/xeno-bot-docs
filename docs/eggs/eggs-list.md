@@ -1,5 +1,5 @@
 ---
-title: Eggs
+title: Eggs List
 description: View various values and information about every egg currently implemented.
 tags:
   - reference
@@ -23,7 +23,7 @@ Discover the different types of eggs currently implemented, their unique attribu
 
 Eggs are an essential part of [trading], offering various statistics and values. Learn more about the characteristics of each egg below.
 
-## Detailed Statistics  
+## Detailed Egg Statistics  
 The table below outlines critical stats for all currently implemented eggs:
 
 {{ read_csv('data/egg_stats.csv', sep = ';') }}
