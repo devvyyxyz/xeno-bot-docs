@@ -19,15 +19,18 @@ aliases:
 ---
 
 ## How To Get?
-
+Use Pathogen Reagent on a Queen Xenomorph, you will be awarded with a Pathogen Queen. Once you have a Pathogen Queen you will be granted the ability to create a Pathogen hive
 
 ## Available Xenomorph Types 
-- [Pathogen Quee ]()
+!!! note
+
+    Pathogen hives can only have Pathogen based Xenomorphs, you may also add Xenomorphs who are infected with the Pathogen Virus
+- [Pathogen Queen]()
 - [Pathogen Runner]()
 - [Pathogen Brute]()
-- [Neomorph]()
-- [Deacon]()
-- [Trilobite]()
+- [Neomorph](docs/Xenomorphs/Neomorph)
+- [Deacon](docs/Xenomorphs/Deacon)
+- [Newborn](docs/Xenomorphs/Offspring)
 
 ## Buffs
 Coming soon...

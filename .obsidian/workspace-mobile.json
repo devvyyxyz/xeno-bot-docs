@@ -39,14 +39,10 @@
             "id": "ec194df0b7125105",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Hives/Pathogen/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -209,8 +205,8 @@
   "active": "ec194df0b7125105",
   "lastOpenFiles": [
     "docs/Hives/Black/index.md",
-    "docs/Contributing.md",
     "docs/Hives/Pathogen/index.md",
+    "docs/Contributing.md",
     "docs/Templates/hive-template.md",
     "docs/Templates/xenomorph-template.md",
     "docs/Templates/basic-template.md",

@@ -23,8 +23,16 @@ aliases:
 
     The default black hive has no requirements and is the very first give you start with 
 
-## Available Xenomorph Types 
-> []()
+## Available Xenomorph Types
+- [Space Jockey](docs/Xenomorphs/space-jockey)
+## Unavailable Xenomorph Types 
+
+!!! warning
+
+    Most Xenomorph types can be added to the black hive, however some cannot
+- [Hybrids](docs/Xenomorphs/Hybrids)
+- [Neomorph](docs/Xenomorphs/Neomorph)
+- [Deacon](docs/Xenomorphs/Deacon)
 
 ## Buffs
 Coming soon...
