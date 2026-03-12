@@ -58,3 +58,22 @@ To join a guild, you can use the `/faction` command. This will allow you to view
 > **Q: How do I earn rewards?**
 
 You can earn rewards by participating in battles, completing quests, and managing your hive effectively. Keep an eye on the in-game events and challenges for additional opportunities to earn rewards.
+
+
+## Factions and Hive Wars
+
+> Q: Can anyone create their own faction?
+Faction creation is limited to certain approved users chosen by the bot’s administrators.
+
+> Q: Are factions cross-server?
+Factions operate globally, allowing members from different Discord servers to unite under one banner.
+
+> Q: Can I change factions after joining?
+Faction loyalty is key. Once you join a faction, switching may be restricted or require specific items/resources.
+
+> Q: Can I battle without joining a faction?
+Hives must be part of a faction to participate in Hive Wars.
+
+> Q: Is the Pathogen Faction permanent for my hive?
+Joining the Pathogen Faction requires mutating a Royal Queen, but it does not lock your hive into this faction permanently.
+

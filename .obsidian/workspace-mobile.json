@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Gameplay/evolving.md",
-                "mode": "preview",
+                "file": "docs/FAQ.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "evolving"
+              "title": "FAQ"
             }
           }
         ],
@@ -208,18 +208,18 @@
   },
   "active": "65dcb6c80d067d53",
   "lastOpenFiles": [
+    "docs/Gameplay/evolving.md",
+    "docs/Gameplay/factions.md",
+    "docs/FAQ.md",
     "docs/Roadmap.md",
     "docs/Pathways.md",
     "docs/Gameplay/egg-catching.md",
-    "docs/FAQ.md",
     "docs/eggs/eggs-list.md",
     "docs/eggs/analysis.md",
     "docs/Gameplay/crafting.md",
-    "docs/Gameplay/factions.md",
     "docs/Gameplay/hives.md",
     "docs/Gameplay/hunting.md",
     "docs/Gameplay/trading.md",
-    "docs/Gameplay/evolving.md",
     "docs/Changelog.md",
     "docs/Gameplay",
     "docs/Changelog.reordered.tmp.md",
