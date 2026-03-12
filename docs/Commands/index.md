@@ -19,6 +19,6 @@ Browse commands by category:
 - [Gameplay](Gameplay.md)
 - [Collection](Collection.md)
 - [Administration](Administration.md)
-- [Trading](Trading.md)
+- [Trading](docs/Commands/Trading.md)
 - [Information](Information.md)
 - [Support](Support.md)
