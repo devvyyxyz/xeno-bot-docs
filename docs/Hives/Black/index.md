@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Black Hive (Default)
 description:
 tags:
   - hive
@@ -19,15 +19,12 @@ aliases:
 ---
 
 ## How To Get?
+!!! note
 
+    The default black hive has no requirements and is the very first give you start with 
 
 ## Available Xenomorph Types 
-- [Pathogen Quee ]()
-- [Pathogen Runner]()
-- [Pathogen Brute]()
-- [Neomorph]()
-- [Deacon]()
-- [Trilobite]()
+> []()
 
 ## Buffs
 Coming soon...

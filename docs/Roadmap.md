@@ -18,22 +18,19 @@ icon: material/map-clock
 aliases:
   - /roadmaps/
 ---
-
-# Development Roadmap
-
 Upcoming features and improvements planned for Xeno Bot.
 
 ::timeline::
 
-- title: Server Management
+- title: Server Management (Implemented)
   content: Server blacklisting and improved moderation tools
   icon: ':material-shield-lock:'
 
-- title: Hive Improvements
+- title: Hive Improvements (implemented)
   content: Enhanced hive management with member removal capabilities
   icon: ':material-home-group:'
 
-- title: Item System
+- title: Item System (inmplemented)
   content: Full item usability and interaction mechanics
   icon: ':material-package-variant:'
 
@@ -41,7 +38,7 @@ Upcoming features and improvements planned for Xeno Bot.
   content: Player-to-player trading and marketplace features
   icon: ':material-swap-horizontal:'
 
-- title: Pathogen Pathways
+- title: Pathogen Pathways (implemented)
   content: New evolution pathways with pathogen variants
   icon: ':material-biohazard:'
 
@@ -66,3 +63,8 @@ Upcoming features and improvements planned for Xeno Bot.
   icon: ':material-sword-cross:'
 
 ::/timeline::
+
+## Small notes
+- [ ] RJ indicator to Hive screens
+- [ ] Selling scrap for RJ (1 Scrap = 1 RJ)
+- [ ] Crafting items with **Scrap**

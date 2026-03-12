@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "f7a97ba949329517",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7b23eb0ef027818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c35a764c4e00d90",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ff94ba461e90322",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b73915390ebe53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c32f1cbb69c11d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e1f0abfe340fe1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "823aff36b2a37f60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ace5c1c07e416cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d673cb9a8fbf62ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2576484c9b4553a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "607ccb0aeb65497a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bfd602c21d9e6b95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8cfa1bfb543d274b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "37eba3c7683d399b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6c35a764c4e00d90",
+  "lastOpenFiles": [
+    "scripts/link_check.py",
+    "scripts/generate_tag_pages.py",
+    "docs/tags/updates/index.md",
+    "docs/tags/trading/index.md",
+    "docs/tags/template/index.md",
+    "docs/tags/support/index.md",
+    "docs/tags/start/index.md",
+    "docs/tags/setup/index.md",
+    "docs/tags/self-hosting/index.md",
+    "docs/tags/roadmap/index.md",
+    "docs/tags/requirements/index.md",
+    "docs/tags/reference/index.md",
+    "docs/tags/questions/index.md",
+    "docs/tags/pathways/index.md",
+    "docs/tags/multiplayer/index.md",
+    "docs/tags/instructions/index.md",
+    "docs/tags/installation/index.md",
+    "docs/tags/info/index.md",
+    "docs/tags/guidelines/index.md",
+    "docs/tags/guide/index.md",
+    "docs/tags/getting-started/index.md",
+    "docs/tags/gameplay/index.md",
+    "docs/tags/faq/index.md",
+    "docs/tags/example/index.md",
+    "docs/tags/evolution/index.md",
+    "docs/tags/development/index.md",
+    "docs/tags/deployment/index.md",
+    "docs/tags/updates",
+    "docs/tags/trading",
+    "docs/tags/template",
+    "docs/tags/support",
+    "docs/tags/start",
+    "docs/tags/setup",
+    "docs/tags/self-hosting",
+    "docs/tags/roadmap",
+    "docs/tags/requirements"
+  ]
+}

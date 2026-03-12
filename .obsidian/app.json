@@ -23,5 +23,6 @@
     "editor:insert-callout"
   ],
   "livePreview": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

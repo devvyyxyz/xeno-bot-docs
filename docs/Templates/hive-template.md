@@ -20,14 +20,8 @@ aliases:
 
 ## How To Get?
 
-
 ## Available Xenomorph Types 
-- [Pathogen Quee ]()
-- [Pathogen Runner]()
-- [Pathogen Brute]()
-- [Neomorph]()
-- [Deacon]()
-- [Trilobite]()
+- []()
 
 ## Buffs
 Coming soon...
