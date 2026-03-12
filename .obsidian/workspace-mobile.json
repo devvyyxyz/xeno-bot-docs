@@ -39,10 +39,14 @@
             "id": "ec194df0b7125105",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "docs/Gameplay/evolving.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "evolving"
             }
           }
         ],
@@ -202,8 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec194df0b7125105",
+  "active": "65dcb6c80d067d53",
   "lastOpenFiles": [
+    "docs/Roadmap.md",
+    "docs/Pathways.md",
     "docs/Gameplay/egg-catching.md",
     "docs/FAQ.md",
     "docs/eggs/eggs-list.md",
@@ -230,9 +236,7 @@
     "docs/Templates/xenomorph-template.md",
     "docs/Templates/basic-template.md",
     "docs/Hives/Black",
-    "docs/Roadmap.md",
     "docs/img/logo.png",
-    "docs/history.md",
     "docs/Legal",
     "docs/trading",
     "docs/eggs",

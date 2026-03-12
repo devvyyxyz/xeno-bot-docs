@@ -20,6 +20,11 @@ aliases:
 ---
 Upcoming features and improvements planned for Xeno Bot.
 
+## Minor Planned Updates
+- [ ] RJ indicator to Hive screens
+- [ ] Selling scrap for RJ (1 Scrap = 1 RJ)
+- [ ] Crafting items with **Scrap**
+
 ::timeline::
 
 - title: Server Management (Implemented)
@@ -63,8 +68,3 @@ Upcoming features and improvements planned for Xeno Bot.
   icon: ':material-sword-cross:'
 
 ::/timeline::
-
-## Small notes
-- [ ] RJ indicator to Hive screens
-- [ ] Selling scrap for RJ (1 Scrap = 1 RJ)
-- [ ] Crafting items with **Scrap**
