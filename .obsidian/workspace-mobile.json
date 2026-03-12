@@ -39,14 +39,10 @@
             "id": "ec194df0b7125105",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Gameplay/crafting.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "crafting"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -208,13 +204,16 @@
   },
   "active": "ec194df0b7125105",
   "lastOpenFiles": [
+    "docs/Gameplay/egg-catching.md",
+    "docs/FAQ.md",
+    "docs/eggs/eggs-list.md",
+    "docs/eggs/analysis.md",
+    "docs/Gameplay/crafting.md",
     "docs/Gameplay/factions.md",
     "docs/Gameplay/hives.md",
     "docs/Gameplay/hunting.md",
     "docs/Gameplay/trading.md",
-    "docs/Gameplay/crafting.md",
     "docs/Gameplay/evolving.md",
-    "docs/Gameplay/egg-catching.md",
     "docs/Changelog.md",
     "docs/Gameplay",
     "docs/Changelog.reordered.tmp.md",
@@ -225,10 +224,7 @@
     "docs/Hives/white-hive.md",
     "docs/Hives/pathogen-hive.md",
     "docs/Hives/black-hive.md",
-    "docs/eggs/eggs-list.md",
-    "docs/FAQ.md",
     "docs/trading/value-list.md",
-    "docs/eggs/analysis.md",
     "docs/trading/tips-and-tricks.md",
     "docs/Templates/hive-template.md",
     "docs/Templates/xenomorph-template.md",
