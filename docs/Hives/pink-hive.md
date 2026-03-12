@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Pink Hive
 description:
 tags:
 keywords:

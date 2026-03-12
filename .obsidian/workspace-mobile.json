@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/eggs/eggs-list.md",
+                "file": "docs/Hives/kseries-hive.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "eggs-list"
+              "title": "kseries-hive"
             }
           }
         ],
@@ -208,13 +208,16 @@
   },
   "active": "52ec30b5788176fd",
   "lastOpenFiles": [
+    "docs/Hives/pink-hive.md",
+    "docs/Hives/red-hive.md",
+    "docs/Hives/white-hive.md",
+    "docs/Hives/pathogen-hive.md",
+    "docs/Hives/black-hive.md",
+    "docs/eggs/eggs-list.md",
     "docs/FAQ.md",
     "docs/trading/value-list.md",
-    "docs/eggs/eggs-list.md",
     "docs/eggs/analysis.md",
     "docs/trading/tips-and-tricks.md",
-    "docs/Hives/Black/index.md",
-    "docs/Hives/Pathogen/index.md",
     "docs/Contributing.md",
     "docs/Templates/hive-template.md",
     "docs/Templates/xenomorph-template.md",
@@ -236,9 +239,6 @@
     "docs/trading",
     "docs/eggs",
     "docs/Getting Started.md",
-    "docs/Templates.md",
-    "Templates.md",
-    "docs/Templates/host-template.md",
     "docs/LICENSE",
     "scripts/generate_backlinks.py",
     "scripts/generate_contributors.py",

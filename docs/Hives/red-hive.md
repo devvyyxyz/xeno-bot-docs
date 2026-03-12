@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Red Hive
 description:
 tags:
 keywords:

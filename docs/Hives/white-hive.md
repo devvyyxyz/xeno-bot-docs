@@ -1,5 +1,5 @@
 ---
-title: Template
+title: White Hive
 description:
 tags:
 keywords:

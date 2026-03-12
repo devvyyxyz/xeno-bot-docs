@@ -1,5 +1,5 @@
 ---
-title: Template
+title: K-Series Hive
 description:
 tags:
 keywords:
