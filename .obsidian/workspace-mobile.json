@@ -39,14 +39,14 @@
             "id": "ec194df0b7125105",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "docs/Hives/Pathogen/index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "git-pull-request",
-              "title": "Diff: graph.json"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],

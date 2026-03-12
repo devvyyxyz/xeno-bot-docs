@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Pathogen Hive
 description:
 tags:
   - hive
@@ -13,7 +13,7 @@ image:
 date: 2026-03-04
 permalink: /template/
 toc: true
-icon: material/file-document
+icon: material/hoop-house
 aliases:
   - /template/
 ---
