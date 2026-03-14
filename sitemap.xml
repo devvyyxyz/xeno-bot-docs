@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Changelog/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Changelog/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Contributing/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Contributing/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/FAQ/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/FAQ/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Pathways/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Pathways/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Roadmap/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Roadmap/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/getting-started/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/history/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/history/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Commands/Administration/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Commands/Administration/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Commands/Collection/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Commands/Collection/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Commands/Gambling/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Commands/Gambling/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Commands/Gameplay/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Commands/Gameplay/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Commands/Information/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Commands/Information/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Commands/Support/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Commands/Support/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Commands/Trading/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Commands/Trading/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Gameplay/crafting/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Gameplay/crafting/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Gameplay/egg-catching/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Gameplay/egg-catching/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Gameplay/evolving/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Gameplay/evolving/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Gameplay/factions/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Gameplay/factions/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Gameplay/hives/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Gameplay/hives/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Gameplay/hunting/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Gameplay/hunting/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Gameplay/trading/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Gameplay/trading/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hives/black-hive/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hives/black-hive/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hives/kseries-hive/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hives/kseries-hive/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hives/pathogen-hive/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hives/pathogen-hive/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hives/pink-hive/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hives/pink-hive/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hives/red-hive/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hives/red-hive/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hives/white-hive/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hives/white-hive/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hosts/colonial-marine/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hosts/colonial-marine/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hosts/dog/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hosts/dog/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hosts/engineer/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hosts/engineer/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hosts/human/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hosts/human/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hosts/neomorph-candidate/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hosts/neomorph-candidate/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hosts/predator/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hosts/predator/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Hosts/space-jocky/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Hosts/space-jocky/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Legal/privacy-policy/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Legal/privacy-policy/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Legal/terms-of-service/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Legal/terms-of-service/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Self-Hosting/Configuration/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Self-Hosting/Configuration/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Self-Hosting/Deployment/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Self-Hosting/Deployment/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Self-Hosting/installation/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Self-Hosting/installation/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Templates/basic-template/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Templates/basic-template/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Templates/hive-template/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Templates/hive-template/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Templates/host-template/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Templates/host-template/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Templates/xenomorph-template/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Templates/xenomorph-template/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Aquatic/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Aquatic/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Berserker/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Berserker/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Deacon/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Deacon/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Dog/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Dog/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/achorpoint/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/achorpoint/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/albino/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/albino/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/biodrone/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/biodrone/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/mr-sinister/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/mr-sinister/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/tarkatan/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/tarkatan/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/xenoborg/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Hybrids/xenoborg/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Irradiated/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Irradiated/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/King/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/King/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Necromorph/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Necromorph/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Neomorph/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Neomorph/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Newborn/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Newborn/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Offspring/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Offspring/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Predalien/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Predalien/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Protomorph/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Protomorph/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Prowler/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Prowler/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Royals/matriarch-queen/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Royals/matriarch-queen/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Royals/queen-mother/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Royals/queen-mother/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Royals/xeno-godess/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Royals/xeno-godess/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Standard/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/Standard/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/space-jockey/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/space-jockey/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/spitter-burster/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/spitter-burster/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/Xenomorphs/trophy-hatchling/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/Xenomorphs/trophy-hatchling/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/eggs/analysis/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/eggs/analysis/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/eggs/eggs-list/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/eggs/eggs-list/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/admin/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/admin/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/answers/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/answers/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/changelog/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/changelog/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/collection/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/collection/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/commands/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/commands/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/community/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/community/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/config/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/config/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/contributing/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/contributing/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/deployment/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/deployment/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/development/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/development/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/evolution/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/evolution/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/example/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/example/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/faq/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/faq/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/gameplay/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/gameplay/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/getting-started/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/guide/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/guide/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/guidelines/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/guidelines/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/info/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/info/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/installation/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/installation/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/instructions/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/instructions/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/multiplayer/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/multiplayer/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/pathways/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/pathways/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/questions/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/questions/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/reference/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/reference/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/requirements/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/requirements/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/roadmap/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/roadmap/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/self-hosting/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/self-hosting/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/setup/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/setup/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/start/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/start/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/support/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/support/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/template/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/template/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/trading/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/trading/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/tags/updates/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/tags/updates/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/trading/tips-and-tricks/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/trading/tips-and-tricks/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/trading/value-list/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/trading/value-list/"/>
+    </url>
+    <url>
+        <loc>https://xeno-bot-docs.devvyy.xyz/blog/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xeno-bot-docs.devvyy.xyz/blog/"/>
+    </url>
+</urlset>
