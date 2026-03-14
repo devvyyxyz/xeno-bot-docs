@@ -11,39 +11,35 @@ icon: material/information-outline
 aliases:
   - /commands/information/
 ---
-
-# Information Commands
-
-Use these placeholders to document output fields and common usage patterns.
-
 ## /help
+Request full operational directive listing
 
-TODO: Document command help lookup behavior.
+## /profile
+Pull operator profile and mission statistics
+
+## /leaderboard
+Display ranked operator and hive standings
+
+## /encyclopedia
+full xenomorph/hive/host catalogue
+
+## /ping
+Test connection latency to colony net node
 
 ## /info
-
 TODO: Document bot/system/global stats output.
 
 ## /stats
-
 TODO: Document user stat fields and reset behavior.
 
-## /health
-
-TODO: Document service health checks and diagnostics shown.
-
 ## /nextspawn
-
 TODO: Document next spawn timer logic by server.
 
 ## /emojis
-
 TODO: Document emoji listing behavior.
 
 ## /news
-
 TODO: Document how news entries are surfaced.
 
 ## /wiki
-
 TODO: Document wiki link behavior and destinations.

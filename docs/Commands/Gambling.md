@@ -11,12 +11,17 @@ icon: material/dice-d20
 aliases:
   - /commands/administration/
 ---
+## /slots
+Engage probabilistic xenomorph slot apparatus
 
+## /bet
+Wager credits on binary engagement outcome
 
-## /coinflip
+## /raffle
+Enter or initiate a randomized specimen raffle
 
-TODO: Document server setup flow and required permissions.
+## /blackjack
+Play tactical blackjack against house deck
 
-## /highlow
-
-TODO: Document spawn override behavior and safeguards.
+## /balance
+Query current credit allocation for operator

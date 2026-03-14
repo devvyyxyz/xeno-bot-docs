@@ -11,27 +11,20 @@ icon: material/package-variant-closed
 aliases:
   - /commands/collection/
 ---
+## /collection
+Display full specimen manifest for current operator
 
-# Collection Commands
-
-Use these placeholders to document command options, permissions, and examples.
+## /xenomorph
+Pull detailed file on a specific catalogued specimen
 
 ## /eggs
+Review eggs currently held in containment
 
-TODO: Document list/info/destroy/hatch/sell subcommands.
+## /catch
+Attempt to locate a new xenomorph egg in the field
+
+## /release
+Release specimen to the wild — no retrieval possible
 
 ## /inventory
-
-TODO: Document inventory views for self and other users.
-
-## /item
-
-TODO: Document item utility actions.
-
-## /hunt-list
-
-TODO: Document host list filters and actions.
-
-## Encyclopedia
-
-TODO: Document egg encyclopedia lookup and stat fields.
+Browse all items and materials in operator inventory

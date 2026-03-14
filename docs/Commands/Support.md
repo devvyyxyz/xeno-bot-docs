@@ -11,11 +11,6 @@ icon: material/lifebuoy
 aliases:
   - /commands/support/
 ---
-
-# Support Commands
-
-Use these placeholders to document support flows, links, and call-to-actions.
-
 ## /tutorial
 
 TODO: Document interactive tutorial steps and expected outcomes.

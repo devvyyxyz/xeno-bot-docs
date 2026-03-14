@@ -11,10 +11,14 @@
             "id": "6c35a764c4e00d90",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "docs/Commands/Administration.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Administration"
             }
           }
         ]
@@ -157,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "063e659d5b7c1b8a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +194,15 @@
   },
   "active": "6c35a764c4e00d90",
   "lastOpenFiles": [
+    "docs/Commands/Trading.md",
+    "docs/Commands/Untitled.md",
+    "docs/Commands/Support.md",
+    "docs/Commands/Information.md",
+    "docs/Commands/Gameplay.md",
+    "docs/Commands/Gambling.md",
+    "docs/Commands/Collection.md",
+    "docs/Commands/Administration.md",
+    "docs/Commands/index.md",
     "scripts/link_check.py",
     "scripts/generate_tag_pages.py",
     "docs/tags/updates/index.md",
@@ -199,14 +222,6 @@
     "docs/tags/installation/index.md",
     "docs/tags/info/index.md",
     "docs/tags/guidelines/index.md",
-    "docs/tags/guide/index.md",
-    "docs/tags/getting-started/index.md",
-    "docs/tags/gameplay/index.md",
-    "docs/tags/faq/index.md",
-    "docs/tags/example/index.md",
-    "docs/tags/evolution/index.md",
-    "docs/tags/development/index.md",
-    "docs/tags/deployment/index.md",
     "docs/tags/updates",
     "docs/tags/trading",
     "docs/tags/template",
@@ -214,7 +229,6 @@
     "docs/tags/start",
     "docs/tags/setup",
     "docs/tags/self-hosting",
-    "docs/tags/roadmap",
-    "docs/tags/requirements"
+    "docs/tags/roadmap"
   ]
 }

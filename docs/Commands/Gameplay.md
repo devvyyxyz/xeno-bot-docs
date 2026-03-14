@@ -11,31 +11,26 @@ icon: material/sword-cross
 aliases:
   - /commands/gameplay/
 ---
-
-# Gameplay Commands
-
-Use these placeholders to document command options, permissions, and examples.
+## /hunt
+Deploy Xenomorph to locate and infect a designated host target
 
 ## /evolve
+Initiate evolutionary protocol for a Xenomorph specimen
 
-TODO: Describe evolution flow and required resources.
+## /hatch
+Activate dormant egg from containment inventory
+
+## /craft
+Synthesize materials into tactical equipment or upgrades
 
 ## /hive
+Access hive registry or declare colony allegiance
 
-TODO: Describe hive management actions and module upgrades.
+## /forage
+Dispatch specimen to retrieve raw biological materials
 
-## /hunt
-
-TODO: Describe hunt mechanics and host rewards.
+## /battle
+Engage another operator's specimen in controlled combat trial
 
 ## /pathway
-
-TODO: Describe pathway lookup and stage planning.
-
-## /leaderboard
-
-TODO: Describe leaderboard filters and ranking scope.
-
-## /shop
-
-TODO: Describe shop categories and purchase flow.
+Display xenomorph evolutionary pathway tree

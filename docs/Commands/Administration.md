@@ -11,27 +11,27 @@ icon: material/shield-crown
 aliases:
   - /commands/administration/
 ---
-
-# Administration Commands
-
-Use these placeholders to document role requirements and server-impacting actions.
-
 ## /setup
+### /setup reset
+Wipe operator data — irreversible
 
-TODO: Document server setup flow and required permissions.
+### /setup setprefix
+Configure command prefix for current colony
+
+### /setup channel
+
+### /setup spawn-rate
+
+### /setup egg-limit
+
+### /setup hunt-cooldown
+
+### /setup details
+
+### /setup message-delete
 
 ## /forcespawn
-
-TODO: Document spawn override behavior and safeguards.
+Force-spawn a designated specimen or egg
 
 ## /give
-
-TODO: Document admin item/credit grant behavior.
-
-## /joinnotice
-
-TODO: Document webhook trigger behavior and restrictions.
-
-## /devgive
-
-TODO: Document owner-only testing/admin grant behavior.
+Issue items or credits to a designated operator
