@@ -1,29 +1,29 @@
 edit_uri: https://github.com/devvyyxyz/xeno-bot-docs/edit/main/docs/
 site_name: Xeno Bot documentation
-site_url: https://xeno-bot-docs.devvyy.xyz
+site_url: https://docs.xeno-bot.com
 site_description: Documentation for Xeno Bot
 theme:
   name: material
   custom_dir: overrides
   logo: img/logo.png
   favicon: img/favicon.ico
+  font:
+    text: Rajdhani
+    code: Share Tech Mono
   features:
     - content.action.edit
     - content.action.view
     - navigation.footer
+    - navigation.instant
+    - navigation.top
+    - navigation.sections
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/white-balance-sunny
-        name: Switch to light mode
+      primary: custom
+      accent: custom
+    - scheme: slate
+      primary: custom
+      accent: custom
 
   # Navigation is auto-generated from `docs/` directory structure; do not add a
   # manual `nav:` section if you want the sidebar to reflect file changes.
