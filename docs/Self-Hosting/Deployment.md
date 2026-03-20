@@ -22,8 +22,6 @@ aliases:
   - /deploying/
 ---
 
-# Deployment Guide
-
 Deploying Xeno Bot is a straightforward process, with flexible options for both small-scale and large-scale setups. This guide will walk you through recommended deployment patterns, hosting services, and additional resources for seamless operation.
 
 ---
