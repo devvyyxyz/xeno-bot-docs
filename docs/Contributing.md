@@ -16,7 +16,7 @@ Thank you for helping improve the docs and project. This file explains the recom
 
 ----
 
-# Using Obsidian For Contribution
+## Using Obsidian For Contribution
 
 !!! note
 
