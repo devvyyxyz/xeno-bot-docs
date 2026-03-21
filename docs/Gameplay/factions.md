@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Factions
 description:
 tags:
 keywords:

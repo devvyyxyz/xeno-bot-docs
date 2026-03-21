@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Neomorph
 description:
 tags:
 keywords:

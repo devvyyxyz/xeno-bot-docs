@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Standard
 description:
 tags:
 keywords:

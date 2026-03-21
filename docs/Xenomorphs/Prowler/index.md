@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Prowler
 description:
 tags:
 keywords:

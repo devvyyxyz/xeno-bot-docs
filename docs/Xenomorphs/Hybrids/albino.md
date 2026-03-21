@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Albino
 description:
 tags:
 keywords:

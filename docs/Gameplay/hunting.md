@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Hunting
 description:
 tags:
 keywords:

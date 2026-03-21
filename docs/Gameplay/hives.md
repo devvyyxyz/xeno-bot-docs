@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Hives
 description:
 tags:
 keywords:

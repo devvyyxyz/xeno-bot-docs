@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Trading
 description:
 tags:
 keywords:

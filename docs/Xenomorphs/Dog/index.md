@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Dog
 description:
 tags:
 keywords:

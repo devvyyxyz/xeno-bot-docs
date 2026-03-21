@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Page Template
 description:
 tags:
 keywords:
