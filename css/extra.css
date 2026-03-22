@@ -1,0 +1,682 @@
+/* ═══════════════════════════════════════════════════════════
+   WEYLAND-YUTANI CORP // XENO BOT DOCUMENTATION SYSTEM
+   COLONY NET v4.2.1 // MU/TH/UR 6000 INTERFACE
+   CLEARANCE: OPEN // REF: WY-DOC-0001
+   ═══════════════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;500;600;700&display=swap');
+
+/* ── Palette ── */
+:root,
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #060d06;
+  --md-primary-fg-color--light: #0f1e0f;
+  --md-primary-fg-color--dark:  #030803;
+  --md-primary-bg-color:        #39ff6a;
+  --md-primary-bg-color--light: #b0f5c0;
+
+  --md-accent-fg-color:              #39ff6a;
+  --md-accent-fg-color--transparent: rgba(57, 255, 106, 0.1);
+  --md-accent-bg-color:              #060d06;
+
+  --md-default-bg-color:          #060d06;
+  --md-default-fg-color:          #9fc499;
+  --md-default-fg-color--light:   #628060;
+  --md-default-fg-color--lighter: #2e4a2e;
+  --md-default-fg-color--lightest:#162016;
+
+  --md-code-bg-color:  #080f08;
+  --md-code-fg-color:  #6ddb80;
+
+  --md-typeset-color:    #9fc499;
+  --md-typeset-a-color:  #39ff6a;
+
+  --md-footer-bg-color:      #030803;
+  --md-footer-bg-color--dark:#020502;
+  --md-footer-fg-color:      #2a3a2a;
+  --md-footer-fg-color--light:#1a2a1a;
+
+  /* W-Y accent amber — for warnings */
+  --wy-amber: #c8a020;
+  --wy-red:   #cc3020;
+  --wy-green: #39ff6a;
+  --wy-dim:   #2a4a2a;
+}
+
+/* ── Scanline overlay ── */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 255, 80, 0.014) 2px,
+    rgba(0, 255, 80, 0.014) 4px
+  );
+  pointer-events: none;
+  z-index: 9999;
+}
+
+body {
+  background-color: #060d06;
+}
+
+/* ═══════════════════════════
+   HEADER
+   ═══════════════════════════ */
+.md-header {
+  background: #030803;
+  border-bottom: 1px solid #152015;
+  box-shadow: 0 1px 0 #0f1e0f, 0 4px 24px rgba(0,0,0,0.8);
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.md-header__title {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 13px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #39ff6a;
+}
+
+.md-header__button.md-logo img {
+  filter: drop-shadow(0 0 8px rgba(57, 255, 106, 0.6));
+}
+
+/* W-Y classified bar above header */
+.md-header::before {
+  content: 'WEYLAND-YUTANI CORP // COLONY NET v4.2.1 // CLEARANCE: OPEN';
+  display: block;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #1d3a1d;
+  background: #020502;
+  text-align: center;
+  padding: 4px 0;
+  border-bottom: 1px solid #0f1a0f;
+}
+
+/* ═══════════════════════════
+   SEARCH
+   ═══════════════════════════ */
+.md-search__form {
+  background: #0a140a;
+  border: 1px solid #1a2e1a;
+  border-radius: 2px;
+}
+
+.md-search__input {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 13px;
+  color: #9fc499;
+}
+
+.md-search__input::placeholder {
+  color: #2a4a2a;
+}
+
+.md-search__input::before {
+  content: '>_ ';
+}
+
+.md-search-result__meta {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 10px;
+  color: #2a4a2a;
+  letter-spacing: 0.1em;
+}
+
+.md-search-result__title {
+  font-family: 'Share Tech Mono', monospace;
+  color: #39ff6a;
+}
+
+/* ═══════════════════════════
+   SIDEBAR & NAV
+   ═══════════════════════════ */
+.md-sidebar {
+  background: #040a04;
+  border-right: 1px solid #0f1a0f;
+}
+
+.md-sidebar--secondary {
+  border-right: none;
+  border-left: 1px solid #0f1a0f;
+}
+
+/* Section label "// SECTION NAME" */
+.md-nav__title {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #1d3a1d !important;
+  padding: 14px 16px 6px;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.md-nav__title::before {
+  content: '// ';
+  color: #152015;
+}
+
+.md-nav__item .md-nav__link {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: #507050;
+  letter-spacing: 0.02em;
+  transition: color 0.1s, padding-left 0.1s;
+  border-radius: 0;
+}
+
+.md-nav__item .md-nav__link:hover {
+  color: #39ff6a;
+  background: rgba(57, 255, 106, 0.04);
+}
+
+.md-nav__link--active,
+.md-nav__item--active > .md-nav__link {
+  color: #39ff6a !important;
+  font-weight: 700;
+  background: rgba(57, 255, 106, 0.06) !important;
+  border-left: 2px solid #39ff6a;
+  padding-left: calc(var(--md-nav-indent) - 2px) !important;
+}
+
+/* Nested nav indent */
+.md-nav--secondary .md-nav__link {
+  font-size: 13px;
+  color: #3a5a3a;
+}
+
+.md-nav--secondary .md-nav__link:hover,
+.md-nav--secondary .md-nav__link--active {
+  color: #39ff6a !important;
+}
+
+/* ═══════════════════════════
+   CONTENT AREA
+   ═══════════════════════════ */
+.md-content {
+  background: transparent;
+}
+
+.md-content__inner {
+  padding-top: 1.5rem;
+}
+
+/* Document-style content wrapper */
+.md-typeset {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #9fc499;
+}
+
+/* ═══════════════════════════
+   HEADINGS
+   ═══════════════════════════ */
+.md-typeset h1 {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 1.5em;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #39ff6a;
+  text-shadow: 0 0 30px rgba(57, 255, 106, 0.25);
+  border-bottom: none;
+  padding: 16px 20px 14px;
+  margin: 0 0 2rem;
+  background: #040a04;
+  border: 1px solid #152015;
+  border-left: 3px solid #39ff6a;
+  position: relative;
+}
+
+.md-typeset h1::before {
+  content: '// ';
+  color: #1d4a25;
+}
+
+.md-typeset h1::after {
+  content: 'WY-DOC // XENO BOT';
+  position: absolute;
+  top: 8px;
+  right: 14px;
+  font-size: 9px;
+  letter-spacing: 0.15em;
+  color: #1a2e1a;
+}
+
+.md-typeset h2 {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 1.05em;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #2ecc60;
+  border-bottom: none;
+  border-left: 2px solid #39ff6a;
+  padding: 8px 12px;
+  margin-top: 2.5em;
+  background: rgba(57, 255, 106, 0.03);
+}
+
+.md-typeset h2::before {
+  content: '// ';
+  color: #1d4a25;
+}
+
+.md-typeset h3 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #7aab80;
+  border-bottom: none;
+  padding-bottom: 2px;
+  border-bottom: 1px solid #0f1e0f;
+}
+
+.md-typeset h4 {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.82em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #3a5a3a;
+}
+
+/* ═══════════════════════════
+   LINKS
+   ═══════════════════════════ */
+.md-typeset a {
+  color: #39ff6a;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.1s, color 0.1s;
+}
+
+.md-typeset a:hover {
+  color: #80ffaa;
+  border-bottom-color: #39ff6a;
+}
+
+/* ═══════════════════════════
+   CODE
+   ═══════════════════════════ */
+.md-typeset code {
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.md-typeset :not(pre) > code {
+  background: #0a140a;
+  color: #39ff6a;
+  border: 1px solid #1a2e1a;
+  border-radius: 0;
+  padding: 1px 6px;
+  font-size: 0.88em;
+}
+
+.md-typeset pre {
+  background: #080f08 !important;
+  border: 1px solid #1a2e1a;
+  border-radius: 0;
+  border-left: 3px solid #39ff6a;
+  position: relative;
+  margin-top: 1.2em;
+}
+
+.md-typeset pre::before {
+  content: 'WY TERMINAL // MU/TH/UR 6000';
+  display: block;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  color: #1d3a1d;
+  padding: 6px 12px 5px;
+  background: #040a04;
+  border-bottom: 1px solid #0f1a0f;
+  text-transform: uppercase;
+}
+
+.md-typeset pre > code {
+  background: transparent !important;
+  color: #6ddb80;
+  font-size: 0.85em;
+}
+
+/* Highlight toolbar */
+.md-typeset .md-clipboard {
+  color: #2a4a2a;
+}
+
+.md-typeset .md-clipboard:hover {
+  color: #39ff6a;
+}
+
+/* ═══════════════════════════
+   ADMONITIONS
+   (styled as classified notices)
+   ═══════════════════════════ */
+.md-typeset .admonition,
+.md-typeset details {
+  background: #070e07;
+  border: 1px solid #152015;
+  border-radius: 0;
+  border-left: 4px solid #39ff6a;
+  box-shadow: none;
+  font-size: 0.95em;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background: #040a04 !important;
+  font-family: 'Share Tech Mono', monospace !important;
+  font-size: 11px !important;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #39ff6a !important;
+  border-bottom: 1px solid #152015;
+  padding: 8px 12px !important;
+}
+
+/* Override admonition type colors */
+.md-typeset .admonition-title::before,
+.md-typeset summary::before {
+  filter: none !important;
+}
+
+/* note / info */
+.md-typeset .admonition.note,
+.md-typeset .admonition.info {
+  border-left-color: #39ff6a;
+}
+
+/* warning / caution */
+.md-typeset .admonition.warning,
+.md-typeset .admonition.caution {
+  border-left-color: var(--wy-amber);
+}
+
+.md-typeset .admonition.warning .admonition-title,
+.md-typeset .admonition.caution summary {
+  color: var(--wy-amber) !important;
+}
+
+/* danger / critical */
+.md-typeset .admonition.danger,
+.md-typeset .admonition.failure {
+  border-left-color: var(--wy-red);
+}
+
+.md-typeset .admonition.danger .admonition-title,
+.md-typeset .admonition.failure summary {
+  color: var(--wy-red) !important;
+}
+
+/* tip / success */
+.md-typeset .admonition.tip,
+.md-typeset .admonition.success {
+  border-left-color: #39ff6a;
+}
+
+/* ═══════════════════════════
+   TABLES — data manifest style
+   ═══════════════════════════ */
+.md-typeset table:not([class]) {
+  border: 1px solid #152015;
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 0.9em;
+  width: 100%;
+}
+
+.md-typeset table:not([class]) th {
+  background: #040a04;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #39ff6a;
+  border-bottom: 1px solid #152015;
+  padding: 10px 12px;
+}
+
+.md-typeset table:not([class]) td {
+  color: #7aab80;
+  border-bottom: 1px solid #0f1a0f;
+  padding: 9px 12px;
+  vertical-align: top;
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: rgba(57, 255, 106, 0.025);
+  color: #9fc499;
+}
+
+.md-typeset table:not([class]) tr:first-child td {
+  border-top: none;
+}
+
+/* ═══════════════════════════
+   HORIZONTAL RULE
+   ═══════════════════════════ */
+.md-typeset hr {
+  border: none;
+  border-top: 1px solid #152015;
+  margin: 2em 0;
+  position: relative;
+}
+
+.md-typeset hr::after {
+  content: '◆ W-Y ◆';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  color: #1d3a1d;
+  background: #060d06;
+  padding: 0 12px;
+}
+
+/* ═══════════════════════════
+   BLOCKQUOTE
+   ═══════════════════════════ */
+.md-typeset blockquote {
+  border-left: 3px solid #1d4a25;
+  background: #040a04;
+  color: #507050;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.88em;
+  padding: 12px 16px;
+  margin: 1.2em 0;
+}
+
+.md-typeset blockquote::before {
+  content: '>_ ';
+  color: #39ff6a;
+}
+
+/* ═══════════════════════════
+   TASKLIST & CHECKBOXES
+   ═══════════════════════════ */
+.md-typeset .task-list-item [type="checkbox"] {
+  accent-color: #39ff6a;
+}
+
+/* ═══════════════════════════
+   TAGS
+   ═══════════════════════════ */
+.md-tag {
+  background: rgba(57, 255, 106, 0.07) !important;
+  color: #39ff6a !important;
+  border: 1px solid rgba(57, 255, 106, 0.2) !important;
+  border-radius: 0 !important;
+  font-family: 'Share Tech Mono', monospace !important;
+  font-size: 10px !important;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* ═══════════════════════════
+   FOOTER
+   ═══════════════════════════ */
+.md-footer {
+  background: #030803;
+  border-top: 1px solid #0f1a0f;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.md-footer-meta {
+  background: #020502;
+  border-top: 1px solid #0a100a;
+}
+
+.md-footer-copyright {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #1a2e1a;
+}
+
+.md-footer-copyright::before {
+  content: '⬛ WEYLAND-YUTANI CORP // BUILDING BETTER WORLDS // REF: WY-DOC-0001 // ';
+  color: #152015;
+}
+
+.md-footer__link {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  color: #2a4a2a !important;
+  opacity: 1 !important;
+}
+
+.md-footer__link:hover {
+  color: #39ff6a !important;
+}
+
+.md-footer__title {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #2a4a2a;
+}
+
+/* ═══════════════════════════
+   TABS (top-level nav)
+   ═══════════════════════════ */
+.md-tabs {
+  background: #030803;
+  border-bottom: 1px solid #152015;
+}
+
+.md-tabs__link {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #2a4a2a;
+  opacity: 1 !important;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #39ff6a !important;
+}
+
+/* ═══════════════════════════
+   BACK TO TOP
+   ═══════════════════════════ */
+.md-top {
+  background: #040a04 !important;
+  border: 1px solid #1a2e1a !important;
+  color: #39ff6a !important;
+  font-family: 'Share Tech Mono', monospace !important;
+  font-size: 10px !important;
+  letter-spacing: 0.12em;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+/* ═══════════════════════════
+   SCROLLBAR
+   ═══════════════════════════ */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: #030803; }
+::-webkit-scrollbar-thumb { background: #1a2e1a; border-radius: 0; }
+::-webkit-scrollbar-thumb:hover { background: #39ff6a; }
+
+/* ═══════════════════════════
+   MERMAID DIAGRAMS
+   ═══════════════════════════ */
+.mermaid {
+  background: #040a04 !important;
+  border: 1px solid #152015;
+  padding: 16px;
+}
+
+/* ═══════════════════════════
+   PAGINATION
+   ═══════════════════════════ */
+.md-footer__inner .md-footer__link {
+  background: #040a04;
+  border: 1px solid #152015;
+}
+
+/* ═══════════════════════════
+   TABLE OF CONTENTS (right sidebar)
+   ═══════════════════════════ */
+.md-nav--secondary .md-nav__title {
+  font-size: 9px;
+  color: #152015 !important;
+  letter-spacing: 0.2em;
+}
+
+.md-nav--secondary .md-nav__title::before {
+  content: '// ';
+}
+
+.md-nav--secondary .md-nav__link {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  color: #2a4a2a;
+}
+
+.md-nav--secondary .md-nav__link:hover,
+.md-nav--secondary .md-nav__link--active {
+  color: #39ff6a !important;
+}
+
+/* ═══════════════════════════
+   NEOTEROI TIMELINE
+   (if used in docs)
+   ═══════════════════════════ */
+.nt-timeline-item-header {
+  font-family: 'Share Tech Mono', monospace !important;
+  color: #39ff6a !important;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* ═══════════════════════════
+   SELECTION
+   ═══════════════════════════ */
+::selection {
+  background: rgba(57, 255, 106, 0.2);
+  color: #39ff6a;
+}
